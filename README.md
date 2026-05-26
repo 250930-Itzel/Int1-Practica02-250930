@@ -31,3 +31,19 @@ Si se desea marcar una separacion visual de los contenidos podemos utilizar una 
 Texto depués del separador
 
 ### 3.Párrafos (PARAGRAPHS)
+
+Son Utilizados para presentar grandes secciones de texto que decriben detalladamente el contenido de las secciones de la documentacion,detallan procesos, explican código teórico.
+
+**EJEMPLO:**
+
+Párrafo 1: Este texto es del párrafo 1 Este texto es del párrafo 1 Este texto es del párrafo 1 Este texto es del párrafo 1 Este texto es del párrafo 1 Este texto es del párrafo 1 Este texto es del párrafo 1 Este texto es del párrafo 1 Este texto es del párrafo 1 Este texto es del párrafo 1 Este texto es del párrafo 1 Este texto es del párrafo 1 Este texto es del párrafo 1 vEste texto es del párrafo 1 Este texto es del párrafo 1 Este texto es del párrafo 1 
+
+Párrafo 2: este texto es del párrafo 2 este texto es del párrafo 2este texto es del párrafo 2este texto es del párrafo 2este texto es del párrafo 2este texto es del párrafo 2este texto es del párrafo 2este texto es del párrafo 2este texto es del párrafo 2este texto es del párrafo 2este texto es del párrafo 2este texto es del párrafo 2veste texto es del párrafo 2este texto es del párrafo 2este texto es del párrafo 2este texto es del párrafo 2veste texto es del párrafo 2este texto es del párrafo 2,el estandar de markdown distingue los párrafos con un doble de línea de texto, si no se párrafos con un doble salto de texto,si no desea alinear ,es decir estará alineado a la izquierda por defecto
+
+En caso de que necesitemos alinear el párrafo a **izquierda**, **derecha**,**centrado** o **justificado**, deberemos utilizar una etiqueta '''<p>''' con la propiedad aling y la direccion deseada. 
+
+<p align="left">Párrafo alineado a la izquierda   párrafo alineado a la izquierda párrafo alineado a la izquierdapárrafo alineado a la izquierda párrafo alineado a la izquierda párrafo alineado a la izquierda párrafo alineado a la izquierda párrafo alineado a la izquierda párrafo alineado a la izquierda  párrafo alineado a la izquierda  párrafo alineado a la izquierda  párrafo alineado a la izquierda  párrafo alineado a la izquierda  párrafo alineado a la izquierda  párrafo alineado a la izquierda  párrafo alineado a la izquierda  párrafo alineado a la izquierda  párrafo alineado a la izquierda  párrafo alineado a la izquierda  párrafo alineado a la izquierda 
+
+<p alig="right"> Párrafo alineado a la derecha párrafo alineado a la derecho párrafo alineado a la derechopárrafo alineado a la derechopárrafo alineado a la derecho párrafo alineado a la derecho párrafo alineado a la derecho párrafo alineado a la derecho párrafo alineado a la derecho párrafo alineado a la derecho párrafo alineado a la derecho párrafo alineado a la derecho párrafo alineado a la derecho párrafo alineado a la derecho párrafo alineado a la derecho párrafo alineado a la derecho párrafo alineado a la derecho párrafo alineado a la derecho párrafo alineado a la derecho párrafo alineado a la derecho
+
+<p align="justify"> Párrafo justificado  párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado párrafo justificado
