@@ -192,3 +192,51 @@ Ejemplo:
 - Ligas internas
 [Acerca del Autor](./aboutme.md "Conoceme mas!")
 
+
+### 9. Imágenes
+
+El estándar de Markdow nos permite incrustar imagénes dentro de nuestra documentacion lo que nos permitira poner logotipos, capturas de pantalla o cualquier archivo gráfico importante
+
+
+La estructura varia de las referancias de hipervinculos, sinedo:
+```
+![Texto que el usuario leera](url a donede se encuentra la imagen)
+```
+
+Ejemplo:
+![Imagenes](./imagenes/helloKitty.jpg)
+
+Es importante comprender que la resolución de la imagen será la original del archivo.
+
+
+
+**Tip PRO:**
+si el tamaño de la imagen no se ajusta a lo que deseas para tu documento, lo más recomendable es ajustar el tamaño del archivo con algún software procesador de imágenes cómo: Paint, Ilustrator, Ink o Photoshop, pero si quiere modificarlo desde le código , el estandar no tiene parametros definidos or lo que necesitaremos echar lineas de codigo HTML
+
+Cambiando la estructura por la etiqueta ```<img>```
+
+
+Ejemplo:
+<img src= "./imagenes/helloKitty.jpg" width="100" heigth="50">
+
+### 10. Notal al pie
+
+### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
+
+Si nuestra documentación requiere ubicar notas de importancia o relevancia posterior podemos usar notas al pied de manera dinámica.
+
+Nota al pie 1 [^first].
+Nota al pie 2 [^Second].
+
+Referencias al pie dentro de un parráfo ^[Nota interna] extenso dentor de nuestra documentación
+
+Segunda referenciá la nota 2[^Second].
+
+[^first]: Nota al pie **Puede ser formateada**
+
+  y tener múltiples lines de párrafo
+[^Second]: Texto de la segunda nota al pie.
+
+
+### 11. Abreviaciones
+
