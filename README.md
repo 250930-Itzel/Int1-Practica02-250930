@@ -240,3 +240,48 @@ Segunda referenciá la nota 2[^Second].
 
 ### 11. Abreviaciones
 
+### [Abreviaturas](https://github.com/markdown-it/markdown-it-abbr)
+
+Este es un ejemplo de abreviatura HTML.
+
+Convierte "HTML", pero conserva las entradas parciales intactas, como "xxxHTMLyyy", etc.
+
+*[HTML]: Lenguaje de Marcado de Hipertexto
+
+### 12. Contenedores Personalizados
+
+### [Contenedores personalizados](https://github.com/markdown-it/markdown-it-container)
+
+::: advertencia
+¡Aquí hay dragones!
+:::
+
+### 13. Listas de Definiciones
+
+### [Listas de definiciones](https://github.com/markdown-it/markdown-it-deflist)
+
+Término 1
+
+: Definición 1
+con continuación diferida.
+
+Término 2 con *marcado en línea*
+
+: Definición 2
+
+{ código, parte de la Definición 2 }
+
+Tercer párrafo de la Definición 2.
+
+_Estilo compacto:_
+
+Término 1
+
+~ Definición 1
+
+Término 2
+
+~ Definición 2a
+
+~ Definición 2b
+
