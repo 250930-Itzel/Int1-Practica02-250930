@@ -248,40 +248,36 @@ Convierte "HTML", pero conserva las entradas parciales intactas, como "xxxHTMLyy
 
 *[HTML]: Lenguaje de Marcado de Hipertexto
 
-### 12. Contenedores Personalizados
 
-### [Contenedores personalizados](https://github.com/markdown-it/markdown-it-container)
-
-::: advertencia
-¡Aquí hay dragones!
-:::
-
-### 13. Listas de Definiciones
+### 1. Listas de Definiciones
 
 ### [Listas de definiciones](https://github.com/markdown-it/markdown-it-deflist)
 
-Término 1
+**Trimestre 1**
 
-: Definición 1
-con continuación diferida.
+Definición 1 con continuación perezosa.
 
-Término 2 con *marcado en línea*
+**Segundo trimestre con marcado en línea**
 
-: Definición 2
+Definición 2
 
-{ código, parte de la Definición 2 }
+```
 
-Tercer párrafo de la Definición 2.
+  { some code, part of Definition 2 }
 
-_Estilo compacto:_
+```
 
-Término 1
+Tercer párrafo de la definición 2.
 
-~ Definición 1
+Estilo compacto:
 
-Término 2
+**Trimestre 1**
 
-~ Definición 2a
+Definición 1
 
-~ Definición 2b
+**Segundo trimestre**
+
+Definición 2a
+
+Definición 2b
 
